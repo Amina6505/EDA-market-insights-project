@@ -34,6 +34,5 @@ The goal of this project is to analyze data, extract meaningful insights, and vi
 ## 📌 Conclusion
 This project helped me strengthen my data analytics skills and gain hands-on experience with real-world tools.
 
-📧 **Author**: *Your Name*  
-🎓 Data Analytics Student
-# EDA-market-insights-project
+📧 **Author**: *Amina Yaqoob*  
+
